@@ -1,0 +1,13 @@
+package com.coderm.boot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Bootweb02Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Bootweb02Application.class, args);
+    }
+
+}
